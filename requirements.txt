@@ -2,3 +2,6 @@ pandas
 matplotlib
 jupyter
 networkx
+numpy
+scipy
+seaborn
